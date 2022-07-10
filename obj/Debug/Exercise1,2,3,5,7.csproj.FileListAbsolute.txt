@@ -1,0 +1,12 @@
+C:\Users\geine\source\repos\Vaibhav_assignment\bin\Debug\Vaibhav_assignment.exe.config
+C:\Users\geine\source\repos\Vaibhav_assignment\bin\Debug\Vaibhav_assignment.exe
+C:\Users\geine\source\repos\Vaibhav_assignment\bin\Debug\Vaibhav_assignment.pdb
+C:\Users\geine\source\repos\Vaibhav_assignment\bin\Debug\Exercise4,6.exe
+C:\Users\geine\source\repos\Vaibhav_assignment\bin\Debug\Exercise4,6.pdb
+C:\Users\geine\source\repos\Vaibhav_assignment\bin\Debug\Exercise4,6.exe.config
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Exercise1,2,3,5,7.csproj.AssemblyReference.cache
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Exercise1,2,3,5,7.csproj.SuggestedBindingRedirects.cache
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Exercise1,2,3,5,7.csproj.CoreCompileInputs.cache
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Exercise1,2,3,5,7.csproj.CopyComplete
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Vaibhav_assignment.exe
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Vaibhav_assignment.pdb

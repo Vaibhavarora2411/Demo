@@ -1,0 +1,8 @@
+C:\Users\geine\source\repos\Vaibhav_assignment\bin\Debug\Vaibhav_assignment.exe.config
+C:\Users\geine\source\repos\Vaibhav_assignment\bin\Debug\Vaibhav_assignment.exe
+C:\Users\geine\source\repos\Vaibhav_assignment\bin\Debug\Vaibhav_assignment.pdb
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Vaibhav_assignment.csproj.AssemblyReference.cache
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Vaibhav_assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Vaibhav_assignment.csproj.CoreCompileInputs.cache
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Vaibhav_assignment.exe
+C:\Users\geine\source\repos\Vaibhav_assignment\obj\Debug\Vaibhav_assignment.pdb
